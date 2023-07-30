@@ -1,8 +1,8 @@
-# Java Spring Web App Database Fundamentals
-# Author
+# Football League Displayer
+## Author
 Abdul Aziz Nassor
 
-# Description
+## Description
 
 In the later semester of my second year in university, we were tasked with creating an in-depth Java Spring Web Application that involve using databases.
 
@@ -12,13 +12,13 @@ Controllers had to be created to control each of these classes for creation and 
 
 Repositories was also used to give the ability to look for different objects using their id, name etc.
 
-# Installation
+## Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
 
 ```bash
-git clone https://github.com/aanassor1/Java-Spring-Web-App-Database-Fundamentals.git
+git clone https://github.com/aanassor1/Football-League-Displayer.git
 ```
 
 After, create a java product on an IDE that allows packages. Then create a package for each folder (model, controller, repo) and then put in the respective children in each of those folders. Put the views folder into the main project folder, resouces and the Hw2Application.java file.
