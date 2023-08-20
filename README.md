@@ -4,13 +4,20 @@ Abdul Aziz Nassor
 
 ## Description
 
-In the later semester of my second year in university, we were tasked with creating an in-depth Java Spring Web Application that involve using databases.
+This project cosists of an in-depth Java Spring Web Application that involve using databases.
 
-This task was based on a football league. We had to create base classes (Fixture, League, Player, Statistics, Team) and set the relationship for each of them in the database (one-to-many, many-to-many, many-to-one).
+This project was based on a football league. I had to create base classes (Fixture, League, Player, Statistics, Team) and set the relationship for each of them in the database (one-to-many, many-to-many, many-to-one).
 
 Controllers had to be created to control each of these classes for creation and deletion in the database. An additional controller also displays the different objects on a web app view to the user.
 
 Repositories was also used to give the ability to look for different objects using their id, name etc.
+
+## What I learnt
+* Spring MVC
+* Java Classes
+* Creating relationships
+* Controllers
+* Repositories
 
 ## Installation
 
